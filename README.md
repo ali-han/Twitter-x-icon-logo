@@ -9,6 +9,7 @@ Musk envisions transforming Twitter into an "everything app" that offers diverse
 For those interested, you can **download the Twitter X Logo in both PNG, and SVG** formats using the provided links below:
 
 PNG: https://github.com/ali-han/Twitter-x-icon-logo/blob/main/dark/Twitter%20X%20Icon.png
+
 SVG: https://raw.githubusercontent.com/ali-han/Twitter-x-icon-logo/main/dark/Twitter%20X%20Icon.svg
 
 As Twitter embarks on this new direction, the debate surrounding the logo's design is likely to continue. Only time will tell how successful this transition will be and whether Twitter's "everything app" concept will resonate with users worldwide.
